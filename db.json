@@ -1,0 +1,492 @@
+{
+  "users": [
+    {
+      "id": "MrTe5gtH0Az284Kskr9JO",
+      "username": "Aabhas_Nama",
+      "email": "aabhasa9@gmail.com",
+      "password": "123456",
+      "isAdmin": true,
+      "cart": [
+        {
+          "product": {
+            "id": 36,
+            "title": "Men's Wool Scarf",
+            "price": 24.5,
+            "description": "Soft wool scarf to keep you warm during chilly days.",
+            "category": "men's clothing",
+            "image": "https://media.istockphoto.com/id/1346539540/photo/cheerful-handsome-guy-in-fashionable-autumn-clothes-hat-and-scarf-posing-in-studio.webp?a=1&b=1&s=612x612&w=0&k=20&c=gQSIMlsbP5hyYET5DApflq7YV8FTMSDoaf1JKJWpnbo=",
+            "rating": {
+              "rate": 4.2,
+              "count": 60
+            }
+          },
+          "quantity": 1
+        },
+        {
+          "product": {
+            "id": 34,
+            "title": "Basic Round Neck T-shirt",
+            "price": 14.99,
+            "description": "Soft cotton basic t-shirt for everyday wear.",
+            "category": "men's clothing",
+            "image": "https://images.unsplash.com/photo-1671851552775-7755ff4dee57?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fCUyMkJhc2ljJTIwUm91bmQlMjBOZWNrJTIwVCUyMHNoaXJ0fGVufDB8fDB8fHww",
+            "rating": {
+              "rate": 3.9,
+              "count": 200
+            }
+          },
+          "quantity": 1
+        },
+        {
+          "product": {
+            "id": 33,
+            "title": "Men's Cargo Shorts",
+            "price": 34.99,
+            "description": "Comfortable cargo shorts with multiple utility pockets.",
+            "category": "men's clothing",
+            "image": "https://media.istockphoto.com/id/156874059/photo/beige-cargo-shorts-with-belt.webp?a=1&b=1&s=612x612&w=0&k=20&c=xpmL-HUhWZnPjGWapk-blEKT6Yc2RypLFpZ5kuTZapI=",
+            "rating": {
+              "rate": 3.7,
+              "count": 143
+            }
+          },
+          "quantity": 1
+        },
+        {
+          "product": {
+            "id": "2",
+            "title": "Mens Casual Premium Slim Fit T-Shirts ",
+            "price": "29",
+            "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
+            "category": "men's clothing",
+            "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg"
+          },
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "_1E_i6oOfK9_tQ1cGeN5r",
+      "username": "abhi",
+      "email": "aabhichhipa@gmail.com",
+      "password": "abhi1234",
+      "isAdmin": false,
+      "cart": [
+        {
+          "product": {
+            "id": "3",
+            "title": "Mens Cotton Jacket",
+            "price": 55.99,
+            "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+            "category": "men's clothing",
+            "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg"
+          },
+          "quantity": 1
+        }
+      ]
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+      "price": 109.95,
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "men's clothing",
+      "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg"
+    },
+    {
+      "id": "2",
+      "title": "Mens Casual Premium Slim Fit T-Shirts ",
+      "price": "29",
+      "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
+      "category": "men's clothing",
+      "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg"
+    },
+    {
+      "id": "3",
+      "title": "Mens Cotton Jacket",
+      "price": 55.99,
+      "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+      "category": "men's clothing",
+      "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg"
+    },
+    {
+      "id": "4",
+      "title": "Mens Casual Slim Fit",
+      "price": 15.99,
+      "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
+      "category": "men's clothing",
+      "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg"
+    },
+    {
+      "id": "5",
+      "title": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+      "price": 695,
+      "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
+      "category": "jewelery",
+      "image": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg"
+    },
+    {
+      "id": "6",
+      "title": "Solid Gold Petite Micropave ",
+      "price": 168,
+      "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
+      "category": "jewelery",
+      "image": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg"
+    },
+    {
+      "id": "7",
+      "title": "White Gold Plated Princess",
+      "price": 9.99,
+      "description": "Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her. Gifts to spoil your love more for Engagement, Wedding, Anniversary, Valentine's Day...",
+      "category": "jewelery",
+      "image": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg"
+    },
+    {
+      "id": "8",
+      "title": "Pierced Owl Rose Gold Plated Stainless Steel Double",
+      "price": 10.99,
+      "description": "Rose Gold Plated Double Flared Tunnel Plug Earrings. Made of 316L Stainless Steel",
+      "category": "jewelery",
+      "image": "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg"
+    },
+    {
+      "id": "9",
+      "title": "WD 2TB Elements Portable External Hard Drive - USB 3.0 ",
+      "price": 64,
+      "description": "USB 3.0 and USB 2.0 Compatibility Fast data transfers Improve PC Performance High Capacity; Compatibility Formatted NTFS for Windows 10, Windows 8.1, Windows 7; Reformatting may be required for other operating systems; Compatibility may vary depending on user’s hardware configuration and operating system",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_.jpg"
+    },
+    {
+      "id": "10",
+      "title": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
+      "price": 109,
+      "description": "Easy upgrade for faster boot up, shutdown, application load and response (As compared to 5400 RPM SATA 2.5” hard drive; Based on published specifications and internal benchmarking tests using PCMark vantage scores) Boosts burst write performance, making it ideal for typical PC workloads The perfect balance of performance and reliability Read/write speeds of up to 535MB/s/450MB/s (Based on internal testing; Performance may vary depending upon drive capacity, host device, OS and application.)",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_.jpg"
+    },
+    {
+      "id": "11",
+      "title": "Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5",
+      "price": 109,
+      "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_.jpg"
+    },
+    {
+      "id": "12",
+      "title": "WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive",
+      "price": 114,
+      "description": "Expand your PS4 gaming experience, Play anywhere Fast and easy, setup Sleek design with high capacity, 3-year manufacturer's limited warranty",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/61mtL65D4cL._AC_SX679_.jpg"
+    },
+    {
+      "id": "13",
+      "title": "Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin",
+      "price": 599,
+      "description": "21. 5 inches Full HD (1920 x 1080) widescreen IPS display And Radeon free Sync technology. No compatibility for VESA Mount Refresh Rate: 75Hz - Using HDMI port Zero-frame design | ultra-thin | 4ms response time | IPS panel Aspect ratio - 16: 9. Color Supported - 16. 7 million colors. Brightness - 250 nit Tilt angle -5 degree to 15 degree. Horizontal viewing angle-178 degree. Vertical viewing angle-178 degree 75 hertz",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/81QpkIctqPL._AC_SX679_.jpg"
+    },
+    {
+      "id": "14",
+      "title": "Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ",
+      "price": 999.99,
+      "description": "49 INCH SUPER ULTRAWIDE 32:9 CURVED GAMING MONITOR with dual 27 inch screen side by side QUANTUM DOT (QLED) TECHNOLOGY, HDR support and factory calibration provides stunningly realistic and accurate color and contrast 144HZ HIGH REFRESH RATE and 1ms ultra fast response time work to eliminate motion blur, ghosting, and reduce input lag",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_.jpg"
+    },
+    {
+      "id": "15",
+      "title": "BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats",
+      "price": 56.99,
+      "description": "Note:The Jackets is US standard size, Please choose size as your usual wear Material: 100% Polyester; Detachable Liner Fabric: Warm Fleece. Detachable Functional Liner: Skin Friendly, Lightweigt and Warm.Stand Collar Liner jacket, keep you warm in cold weather. Zippered Pockets: 2 Zippered Hand Pockets, 2 Zippered Pockets on Chest (enough to keep cards or keys)and 1 Hidden Pocket Inside.Zippered Hand Pockets and Hidden Pocket keep your things secure. Humanized Design: Adjustable and Detachable Hood and Adjustable cuff to prevent the wind and water,for a comfortable fit. 3 in 1 Detachable Design provide more convenience, you can separate the coat and inner as needed, or wear it together. It is suitable for different season and help you adapt to different climates",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_.jpg"
+    },
+    {
+      "id": "16",
+      "title": "Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket",
+      "price": 29.95,
+      "description": "100% POLYURETHANE(shell) 100% POLYESTER(lining) 75% POLYESTER 25% COTTON (SWEATER), Faux leather material for style and comfort / 2 pockets of front, 2-For-One Hooded denim style faux leather jacket, Button detail on waist / Detail stitching at sides, HAND WASH ONLY / DO NOT BLEACH / LINE DRY / DO NOT IRON",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_.jpg"
+    },
+    {
+      "id": "17",
+      "title": "Rain Jacket Women Windbreaker Striped Climbing Raincoats",
+      "price": 39.99,
+      "description": "Lightweight perfet for trip or casual wear---Long sleeve with hooded, adjustable drawstring waist design. Button and zipper front closure raincoat, fully stripes Lined and The Raincoat has 2 side pockets are a good size to hold all kinds of things, it covers the hips, and the hood is generous but doesn't overdo it.Attached Cotton Lined Hood with Adjustable Drawstrings give it a real styled look.",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2.jpg"
+    },
+    {
+      "id": "18",
+      "title": "MBJ Women's Solid Short Sleeve Boat Neck V ",
+      "price": 9.85,
+      "description": "95% RAYON 5% SPANDEX, Made in USA or Imported, Do Not Bleach, Lightweight fabric with great stretch for comfort, Ribbed on sleeves and neckline / Double stitching on bottom hem",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_.jpg"
+    },
+    {
+      "id": "19",
+      "title": "Opna Women's Short Sleeve Moisture",
+      "price": 7.95,
+      "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_.jpg"
+    },
+    {
+      "id": "20",
+      "title": "DANVOUY Womens T Shirt Casual Cotton Short",
+      "price": 12.99,
+      "description": "95%Cotton,5%Spandex, Features: Casual, Short Sleeve, Letter Print,V-Neck,Fashion Tees, The fabric is soft and has some stretch., Occasion: Casual/Office/Beach/School/Home/Street. Season: Spring,Summer,Autumn,Winter.",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_.jpg"
+    },
+    {
+      "id": "21",
+      "title": "Vintage Canvas Messenger Bag",
+      "price": 49.99,
+      "description": "Stylish canvas messenger bag perfect for work, school, or travel. Fits laptops up to 14 inches.",
+      "category": "men's clothing",
+      "image": "https://plus.unsplash.com/premium_photo-1679483562579-023de24ab10f?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjV8fFZpbnRhZ2UlMjBDYW52YXMlMjBNZXNzZW5nZXIlMjBCYWd8ZW58MHx8MHx8fDA%3D",
+      "rating": {
+        "rate": 4.2,
+        "count": 134
+      }
+    },
+    {
+      "id": "22",
+      "title": "Men's Casual Slim Fit Jacket",
+      "price": 65.95,
+      "description": "Lightweight and fashionable slim-fit jacket for cool weather.",
+      "category": "men's clothing",
+      "image": "https://images.unsplash.com/photo-1675877879221-871aa9f7c314?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mzh8fE1lbidzJTIwQ2FzdWFsJTIwU2xpbSUyMEZpdCUyMEphY2tldHxlbnwwfHwwfHx8MA%3D%3D",
+      "rating": {
+        "rate": 4,
+        "count": 210
+      }
+    },
+    {
+      "id": "23",
+      "title": "Men's Classic Fit Jeans",
+      "price": 40,
+      "description": "Comfortable and durable denim jeans for everyday wear.",
+      "category": "men's clothing",
+      "image": "https://plus.unsplash.com/premium_photo-1673977134363-c86a9d5dcafa?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fE1lbidzJTIwQ2xhc3NpYyUyMEZpdCUyMEplYW5zfGVufDB8fDB8fHww",
+      "rating": {
+        "rate": 3.8,
+        "count": 98
+      }
+    },
+    {
+      "id": "24",
+      "title": "Waterproof Hiking Boots",
+      "price": 120.49,
+      "description": "Rugged waterproof boots designed for hiking and outdoor adventures.",
+      "category": "men's clothing",
+      "image": "https://images.unsplash.com/photo-1563635419376-78d400e5588e?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "rating": {
+        "rate": 4.5,
+        "count": 76
+      }
+    },
+    {
+      "id": "25",
+      "title": "Men's Leather Wallet",
+      "price": 25.75,
+      "description": "Genuine leather wallet with multiple compartments for cards and cash.",
+      "category": "men's clothing",
+      "image": "https://images.unsplash.com/photo-1675582090584-4ae9400f7326?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fE1lbidzJTIwTGVhdGhlciUyMFdhbGxldHxlbnwwfHwwfHx8MA%3D%3D",
+      "rating": {
+        "rate": 4.4,
+        "count": 340
+      }
+    },
+    {
+      "id": "26",
+      "title": "Men's Formal Leather Belt",
+      "price": 19.95,
+      "description": "Classic leather belt with a sleek buckle for formal or casual wear.",
+      "category": "men's clothing",
+      "image": "https://images.unsplash.com/photo-1664286074240-d7059e004dff?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "rating": {
+        "rate": 3.9,
+        "count": 122
+      }
+    },
+    {
+      "id": "27",
+      "title": "Sports Performance Hoodie",
+      "price": 39.5,
+      "description": "Moisture-wicking hoodie ideal for workouts and casual wear.",
+      "category": "men's clothing",
+      "image": "https://media.istockphoto.com/id/154960461/photo/red-sweat-shirt-on-white-background.jpg?b=1&s=612x612&w=0&k=20&c=0uaO5x1hnAs_0v4KO_J1MYkt34Fhg1ly6RynwSdXYfc=",
+      "rating": {
+        "rate": 4.3,
+        "count": 150
+      }
+    },
+    {
+      "id": "28",
+      "title": "Men's Running Shorts",
+      "price": 29.99,
+      "description": "Lightweight running shorts with built-in liner and pockets.",
+      "category": "men's clothing",
+      "image": "https://images.pexels.com/photos/30954224/pexels-photo-30954224.jpeg?_gl=1*ganax8*_ga*MzA3MDk1NDUxLjE3NDQ2MzExOTc.*_ga_8JE65Q40S6*czE3NTE0NzEyNzgkbzE5JGcxJHQxNzUxNDcxMzkyJGoxMCRsMCRoMA..",
+      "rating": {
+        "rate": 4,
+        "count": 180
+      }
+    },
+    {
+      "id": "29",
+      "title": "Classic Aviator Sunglasses",
+      "price": 15.99,
+      "description": "Stylish aviator sunglasses with UV protection lenses.",
+      "category": "men's clothing",
+      "image": "https://images.unsplash.com/photo-1640716650966-5060cdf6cbf2?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fENsYXNzaWMlMjBBdmlhdG9yJTIwU3VuZ2xhc3Nlc3xlbnwwfHwwfHx8MA%3D%3D",
+      "rating": {
+        "rate": 4.6,
+        "count": 320
+      }
+    },
+    {
+      "id": "30",
+      "title": "Men's Crew Neck Sweater",
+      "price": 55,
+      "description": "Soft cotton crew neck sweater perfect for layering in colder weather.",
+      "category": "men's clothing",
+      "image": "https://plus.unsplash.com/premium_photo-1669850858871-ad39a6dce159?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8TWVuJ3MlMjBDcmV3JTIwTmVjayUyMFN3ZWF0ZXJ8ZW58MHx8MHx8fDA%3D",
+      "rating": {
+        "rate": 4.1,
+        "count": 95
+      }
+    },
+    {
+      "id": "31",
+      "title": "Leather Chelsea Boots",
+      "price": 130.99,
+      "description": "Premium leather Chelsea boots with slip-on design.",
+      "category": "men's clothing",
+      "image": "https://images.unsplash.com/photo-1608629601270-a0007becead3?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8TGVhdGhlciUyMENoZWxzZWElMjBCb290c3xlbnwwfHwwfHx8MA%3D%3D",
+      "rating": {
+        "rate": 4.2,
+        "count": 85
+      }
+    },
+    {
+      "id": "32",
+      "title": "Men's Thermal Gloves",
+      "price": 18.5,
+      "description": "Warm and flexible thermal gloves for winter activities.",
+      "category": "men's clothing",
+      "image": "https://images.unsplash.com/photo-1639654771880-5fa903b98cbe?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fE1lbidzJTIwVGhlcm1hbCUyMEdsb3Zlc3xlbnwwfHwwfHx8MA%3D%3D",
+      "rating": {
+        "rate": 4,
+        "count": 112
+      }
+    },
+    {
+      "id": "33",
+      "title": "Men's Cargo Shorts",
+      "price": 34.99,
+      "description": "Comfortable cargo shorts with multiple utility pockets.",
+      "category": "men's clothing",
+      "image": "https://media.istockphoto.com/id/156874059/photo/beige-cargo-shorts-with-belt.webp?a=1&b=1&s=612x612&w=0&k=20&c=xpmL-HUhWZnPjGWapk-blEKT6Yc2RypLFpZ5kuTZapI=",
+      "rating": {
+        "rate": 3.7,
+        "count": 143
+      }
+    },
+    {
+      "id": "34",
+      "title": "Basic Round Neck T-shirt",
+      "price": 14.99,
+      "description": "Soft cotton basic t-shirt for everyday wear.",
+      "category": "men's clothing",
+      "image": "https://images.unsplash.com/photo-1671851552775-7755ff4dee57?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fCUyMkJhc2ljJTIwUm91bmQlMjBOZWNrJTIwVCUyMHNoaXJ0fGVufDB8fDB8fHww",
+      "rating": {
+        "rate": 3.9,
+        "count": 200
+      }
+    },
+    {
+      "id": "35",
+      "title": "Pack of 3 Ankle Socks",
+      "price": 9.99,
+      "description": "Durable and comfortable ankle socks in a value pack.",
+      "category": "men's clothing",
+      "image": "https://media.istockphoto.com/id/1496240947/photo/footwear.webp?a=1&b=1&s=612x612&w=0&k=20&c=rEqta1R8v7Pg2_MT2C_kBqQwulCj3P2cpznX0H-qqtU=",
+      "rating": {
+        "rate": 4.4,
+        "count": 180
+      }
+    },
+    {
+      "id": "36",
+      "title": "Men's Wool Scarf",
+      "price": 24.5,
+      "description": "Soft wool scarf to keep you warm during chilly days.",
+      "category": "men's clothing",
+      "image": "https://media.istockphoto.com/id/1346539540/photo/cheerful-handsome-guy-in-fashionable-autumn-clothes-hat-and-scarf-posing-in-studio.webp?a=1&b=1&s=612x612&w=0&k=20&c=gQSIMlsbP5hyYET5DApflq7YV8FTMSDoaf1JKJWpnbo=",
+      "rating": {
+        "rate": 4.2,
+        "count": 60
+      }
+    },
+    {
+      "id": "37",
+      "title": "Men's Denim Jacket",
+      "price": 75,
+      "description": "Classic denim jacket for a timeless casual look.",
+      "category": "men's clothing",
+      "image": "https://media.istockphoto.com/id/854479460/photo/with-good-basics-youll-have-endless-options.webp?a=1&b=1&s=612x612&w=0&k=20&c=ny3T3E3iRIjNiNZA0Di7TjIQen6Yeuam_DM7H_pbdlU=",
+      "rating": {
+        "rate": 4.1,
+        "count": 140
+      }
+    },
+    {
+      "id": "38",
+      "title": "Men's Gym Duffle Bag",
+      "price": 45.99,
+      "description": "Spacious and durable duffle bag for gym and travel.",
+      "category": "men's clothing",
+      "image": "https://media.istockphoto.com/id/2187244508/photo/close-up-outdoor-trendy-fashion-sports-custom-nylon-crossbody-shoulder-strap-bag-medium-size.webp?a=1&b=1&s=612x612&w=0&k=20&c=DrO4yA90Bd_8_KNyfmV0EJdHPaIXTdfNUxslzm9aaXE=",
+      "rating": {
+        "rate": 4.3,
+        "count": 75
+      }
+    },
+    {
+      "id": "39",
+      "title": "Men's Flip Flops",
+      "price": 12.99,
+      "description": "Comfortable flip flops for beach and casual wear.",
+      "category": "men's clothing",
+      "image": "https://media.istockphoto.com/id/848140244/photo/letting-go-feet-up-on-tropical-vacation-palm-tree.webp?a=1&b=1&s=612x612&w=0&k=20&c=mIIRrKhyYKDGUAkSx50br8-cohQ6gHA_8RShTM2143M=",
+      "rating": {
+        "rate": 3.8,
+        "count": 95
+      }
+    },
+    {
+      "id": "40",
+      "title": "Men's Compression Leggings",
+      "price": 29.99,
+      "description": "Stretchable compression leggings designed for sports and workouts.",
+      "category": "men's clothing",
+      "image": "https://media.istockphoto.com/id/1132622687/photo/theres-no-time-to-waste-time.jpg?s=612x612&w=0&k=20&c=KYNpju-3S2w-M3hbKUcvOcGPVRMWmjUgZynUF411pW0=",
+      "rating": {
+        "rate": 4.5,
+        "count": 110
+      }
+    }
+  ],
+  "carts": []
+}

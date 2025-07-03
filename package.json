@@ -2,9 +2,9 @@
   "name": "backend",
   "version": "1.0.0",
   "description": "JSON Server backend for my app",
-  "main": "index.js",
   "scripts": {
-    "start": "node_modules/.bin/json-server --watch db.json --port 10000"
+    "postinstall": "npm install json-server",
+    "start": "npx json-server --watch db.json --port 10000"
   },
   "dependencies": {
     "json-server": "^1.0.0-beta.3"
